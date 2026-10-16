@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_mars_thinker_banner_2400x600.png"
+  <img src="github.png"
        width="100%"
-       alt="The Thinker: AI on Mars">
+       alt="Mehrdad Zaker">
 </p>
